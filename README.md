@@ -1,6 +1,6 @@
 ![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/2bdcdd13-6601-4494-96b9-6e5a7ea07445)
 <h1 align="center">Hi 👋, I'm Sarwar Ebrahimi</h1>
-<h3 align="center">A computer science student from Afghanistan</h3>
+<h3 align="center">Studying Information Science and Engineering at Kabul University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwarebrahimi01&label=Profile%20views&color=0e75b6&style=flat" alt="sarwarebrahimi01" /> </p>
 
