@@ -1,12 +1,12 @@
 ![1_0N8CVKix7OGfBDsgh9DzrQ](https://github.com/user-attachments/assets/2bdcdd13-6601-4494-96b9-6e5a7ea07445)
-<h1 align="center">Hi 👋, I'm Sarwar Ebrahimi</h1>
+<h1 align="center">Hi, I'm Sarwar Ebrahimi</h1>
 <h3 align="center">Studying Information Science and Engineering at Kabul University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwarebrahimi01&label=Profile%20views&color=0e75b6&style=flat" alt="sarwarebrahimi01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarwarebrahimi01" alt="sarwarebrahimi01" /></a> </p>
 
-- 🔭 I’m currently working on **Airline Reservation Management System**
+I’m currently working on **Airline Reservation Management System**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
