@@ -81,7 +81,7 @@ I’m currently learning **Android Application Development and AI**
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Profile Footer" />
+  
 
   <h3>Thanks for visiting my profile! </h3>
 
@@ -96,6 +96,8 @@ I’m currently learning **Android Application Development and AI**
   <p>
     <sub>© 2026 Sarwar Ebrahimi · Crafted with passion for technology.</sub>
   </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Profile Footer" />
 
 </div>
 
