@@ -69,3 +69,28 @@ I’m currently learning **Android Application Development and AI**
 
 ![SarwarEbrahimi01's Stats](https://github-readme-stats.vercel.app/api?username=SarwarEbrahimi01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![SarwarEbrahimi01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarwarEbrahimi01&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Profile Footer" />
+
+  <h3>Thanks for visiting my profile! </h3>
+
+  <p>
+    <i>Building, learning, and improving — one line of code at a time.</i>
+  </p>
+
+  <a href="https://github.com/SarwarEbrahimi01">
+    <img src="https://img.shields.io/badge/GitHub-SarwarEbrahimi01-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+
+  <p>
+    <sub>© 2026 Sarwar Ebrahimi · Crafted with passion for technology.</sub>
+  </p>
+
+</div>
+
