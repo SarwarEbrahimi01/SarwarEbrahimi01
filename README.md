@@ -82,7 +82,6 @@ I’m currently learning **Android Application Development and AI**
 <div align="center">
 
   
-
   <h3>Thanks for visiting my profile! </h3>
 
   <p>
