@@ -78,7 +78,6 @@ I’m currently learning **Android Application Development and AI**
 
 
 
-
 <div align="center">
 
   
