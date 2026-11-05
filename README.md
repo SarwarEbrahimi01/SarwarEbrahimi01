@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwarebrahimi01&label=Profile%20views&color=0e75b6&style=flat" alt="sarwarebrahimi01" /> </p>
 
-
 I’m currently learning **Android Application Development and AI**
 
 <h3 align="left">Connect with me:</h3>
@@ -76,7 +75,6 @@ I’m currently learning **Android Application Development and AI**
 
 </div>
 
-
 <div align="center">
 
   
@@ -97,4 +95,3 @@ I’m currently learning **Android Application Development and AI**
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Profile Footer" />
 
 </div>
-
